@@ -1,6 +1,7 @@
 # QUIZ  GAMING--JAVA APPLICATION
 # OVERVIEW 
 **🎮 Welcome to the Quiz Gaming Application!**
+
 This repository contains a simple console-based quiz game implemented in Java using NetBeans IDE 20. The program allows users to take a quiz consisting of multiple-choice questions with a timer for each question. The quiz questions, options, correct answers, and time limit per question are defined within the code.
 
 # 🔧 Key Features:
