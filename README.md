@@ -19,6 +19,7 @@ This repository contains a simple console-based quiz game implemented in Java us
 # 🌐 Technologies Used:
 
 **Java**
+
 **NetBeans IDE 20**
 
 # 🚀 How to Use:
